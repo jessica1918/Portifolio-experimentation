@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Protest+Riot&family=Quicksand:wght@300..700&display=swap');
+
+body {
+    background-color: pink;
+    font-family: 'Quicksand', sans-serif;
+ }
+
+ h1 { font-size: 28px;
+    text-align: center;
+
+}
+
+ header {
+    display: flex;
+    border: 2px solid black;
+    padding: 25px;
+
+ }
+ main {
+    height: 59vh;
+    border: 2px solid black;
+
+
+ }
+ footer {
+    padding: 25px;
+    font-weight: 100;
+    border: 2px;
+        
+ }
+
